@@ -1,91 +1,88 @@
-﻿### EREKIR JUNCTION
-# Adamlol_gaming - Erekir Junction
-- [GitHub Repository](https://github.com/adamlolgaming/erekir-junctions)
+### Adamlol_gaming - Erekir Junction
+
+- [Erekir Junctions Repository](https://github.com/adamlolgaming/erekir-junctions?utm_source=chatgpt.com)  
 - Discord: @adamlol_gaming
 
+---
 
-**Changes Made in BUNDLES.PROPERTIES :**
+## Bundles [05/26]
 
-( distribution/duct-bridge-alt ):(02/24)
-- Added to bundle_pt_BR:(02/24)
-  - Name [✓]
-  - Description [✓]
-  - Details [✓]
+# PT-BR
+- Nome (3/3) [✓]
+- Descrição (3/3) [✓]
+- Detalhes (3/3) [✓]
 
-- Added to bundle_US:(02/24)
-  - Name [✓]
-  - Description [✓]
-  - Details [✓]
+# EN
+- Name (3/3) [✓]
+- Description (3/3) [✓]
+- Details (3/3) [✓]
 
-- Added to bundle_ES:(07/24)
-  - Name [✓]
-  - Description [✓]
-  - Details [✓]
-  
-( distribution/beryllium-router ):(02/24)
-- Added to bundle_pt_BR:(02/24)
-  - Name [✓]
-  - Description [✓]
-  - Details [✓]
+# ES
+- Nombre (3/3) [✓]
+- Descripción (3/3) [✓]
+- Detalles (3/3) [✓]
 
-- Added to bundle_US:(02/24)
-  - Name [✓]
-  - Description [✓]
-  - Details [✓]
+---
 
-- Added to bundle_ES:(07/24)
-  - Name [✓]
-  - Description [✓]
-  - Details [✓]
- 
-( distribution/duct-junction ):(02/24) 
-- Added to bundle_pt_BR:(02/24)
-  - Name [✓]
-  - Description [✓]
-  - Details [✓]
+## Contents [02/24]
 
-- Added to bundle_US:(02/24)
-  - Name [✓]
-  - Description [✓]
-  - Details [✓]
+# distribution/duct-junction
+- Name [✓]
+- Description [✓]
 
-- Added to bundle_ES:(07/24)
-  - Name [✓]
-  - Description [✓]
-  - Details [✓]
+- Health [✓]
+  - Changed to: 90
 
-**Changes Made in CONTENTS :**
-- Applied to Blocks:(02/24)
-( distribution/duct-junction ):(02/24)
-  - Name [✓]
-  - Description [✓]
-  - Health [✓]
-  Changed to 90
+---
 
-( distribution/duct-bridge-alt ):(02/24)
-  - Name [✓]
-  - Description [✓]
-  - Requirements [✓]
-  Changed (berryllium/25)
-  Added (graphite/15)
-  - Health [✓]
-  Changed to 100
-  - Features [✓]
-  Range: 5
-  
-( distribution/beryllium-router ):(02/24)
-  - Requirements [✓]
-  Changed (berryllium/4)
+# distribution/duct-bridge-alt
+- Name [✓]
+- Description [✓]
 
-**Changes Made in SPRITE:**
-( distribution/duct-bridge-alt ):(02/24)
-  - Coloring [✓]
-  Changed arrow of duct-bridge-alt to Green
+- Requirements [✓]
+  - Modified:
+    - beryllium/25
+  - Added:
+    - graphite/15
 
-**Changes Made in MOD.JSON and README.MD:**
-  - Description [✓] (02/24)
-  Added to Mod.json
-  Added to README.md 
-  - Link [✓] (02/24)
-  Added to Mod.json
-  Added to Readme.json
+- Health [✓]
+  - Changed to: 100
+
+- Characteristics [✓]
+  - Range: 5
+
+---
+
+# distribution/beryllium-router
+- Requirements [✓]
+  - Modified:
+    - beryllium/4
+
+---
+
+## Sprites [02/24]
+
+# distribution/duct-bridge-alt
+- Palette [✓]
+  - Arrow recolored to green
+
+---
+
+## Integration [02/24]
+- Compatibility Test [✓]
+- Harmony Validation [✓]
+- Research Tree Validation [✓]
+
+---
+
+## Documentation [02/24]
+
+### mod.json
+- Credits Added [✓]
+
+### README.md
+- Credits Added [✓]
+- Mod Link Added [✓]
+
+### CHANGELOG
+- Entry Added [✓]
