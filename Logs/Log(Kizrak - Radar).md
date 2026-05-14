@@ -18,9 +18,9 @@
 - Details (1/1) [✓]
 
 ### ES [07/24]
-- Nombre (1/1) [X]
-- Descripción (1/1) [X]
-- Detalles (1/1) [X]
+- Nombre (1/1) [✓]
+- Descripción (1/1) [✓]
+- Detalles (1/1) [✓]
 
 ---
 
