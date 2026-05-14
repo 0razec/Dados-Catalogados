@@ -5,19 +5,19 @@
 
 ---
 
-## Bundles [05/26]
+## Bundles
 
-# PT-BR
+# PT-BR [02/24]
 - Nome (3/3) [✓]
 - Descrição (3/3) [✓]
 - Detalhes (3/3) [✓]
 
-# EN
+# EN [02/24]
 - Name (3/3) [✓]
 - Description (3/3) [✓]
 - Details (3/3) [✓]
 
-# ES
+# ES [05/26]
 - Nombre (3/3) [✓]
 - Descripción (3/3) [✓]
 - Detalles (3/3) [✓]
