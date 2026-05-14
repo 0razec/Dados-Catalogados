@@ -1,54 +1,92 @@
-﻿### KIZRAKS RADAR
-# Abaines - Kizraks Radar
-- [GitHub Repository](https://github.com/abaines/Kizraks-Radar)
+### Abaines - Kizraks Radar
+
+- [Kizraks Radar Repository](https://github.com/abaines/Kizraks-Radar?utm_source=chatgpt.com)  
 - Discord: @kizrak
 
-**Changes Made in BUNDLES.PROPERTIES :**
-- Added to bundle_pt_BR: (02/24)
-( Logic\kizrak-radar ): (02/24)
-  - Name [✓]
-  - Description [✓]
-  - Details [✓]
+---
 
-- Added to bundle_US: (02/24)
-( Logic\kizrak-radar ): (02/24)
-  - Name [✓]
-  - Description [✓]
-  - Details [✓]
+## Bundles
 
-- Added to bundle_ES: (07/24)
-( Logic\kizrak-radar ): (07/24)
-  - Name [✓]
-  - Description [✓]
-  - Details [✓]
+### PT-BR [02/24]
+- Nome (1/1) [✓]
+- Descrição (1/1) [✓]
+- Detalhes (1/1) [✓]
 
-**Changes Made in CONTENTS :**
-- Applied to Blocks:(02/24)
-( Logic\kizrak-radar ): (02/24)
-  - Name [✓]
-  - Description [✓]
-  - Requirements [✓]
-  Added (tungsten/60, surge-alloy/150)
-  Changed (beryllium/50, silicon/90)
-  - Health [✓]
-  Changed to 600
-  - Research [✓]
-  Changed to radar
-  - Demand [✓]
-  Added water usage (18/sec)
-  Changed power usage (396/sec)
-  - Features [✓]
-  Changed FogRadius:200
-  Added LiquidCapacity: 40
-  
-**Changes Made in SPRITE:**
-  - Coloring [✓]
-  Red -> Yellow
+### EN [02/24]
+- Name (1/1) [✓]
+- Description (1/1) [✓]
+- Details (1/1) [✓]
 
-**Changes Made in MOD.JSON and README.MD:**
-  - Description [✓] (02/24)
-  Added to Mod.json
-  Added to README.md 
-  - Link [✓] (02/24)
-  Added to Mod.json
-  Added to Readme.json
+### ES [07/24]
+- Nombre (1/1) [X]
+- Descripción (1/1) [X]
+- Detalles (1/1) [X]
+
+---
+
+## Contents [02/24]
+
+### logic/kizrak-radar
+- Name [✓]
+- Description [✓]
+
+- Requirements [✓]
+  - Added:
+    - tungsten/60
+    - surge-alloy/150
+  - Modified:
+    - beryllium/50
+    - silicon/90
+
+- Health [✓]
+  - Changed to: 600
+
+- Research [✓]
+  - Changed to:
+    - radar
+
+- Consumption [✓]
+  - Added:
+    - water: 18/sec
+  - Modified:
+    - power usage: 396/sec
+
+- Characteristics [✓]
+  - Modified:
+    - FogRadius: 200
+  - Added:
+    - LiquidCapacity: 40
+
+---
+
+## Sprites [02/24]
+
+### logic/kizrak-radar
+- Palette [✓]
+  - Recolored:
+    - Red → Yellow
+
+---
+
+## Integration [02/24]
+- Compatibility Test [✓]
+- Harmony Validation [✓]
+- Research Tree Validation [✓]
+
+---
+
+## Documentation [02/24]
+
+### mod.json
+- Credits Added [✓]
+- Description Updated [✓]
+- Mod Link Added [✓]
+
+### README.md
+- Credits Added [✓]
+- Mod Link Added [✓]
+
+### CHANGELOG
+- Entry Added [✓]
+
+---
