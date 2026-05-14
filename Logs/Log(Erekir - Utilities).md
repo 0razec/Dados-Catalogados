@@ -1,41 +1,73 @@
-﻿### EREKIR UTILITIES
-# Azhurniy Baklan - Erekir Utilities
-- [GitHub Repository](https://github.com/AzhurniyBaklan/Erekir-Utilities)
+### Azhurniy Baklan - Erekir Utilities
+
+- [Erekir Utilities Repository](https://github.com/AzhurniyBaklan/Erekir-Utilities?utm_source=chatgpt.com)  
 - Discord: @cancerguy
 
-**Changes Made in BUNDLES.PROPERTIES :**
-- Added to bundle_pt_BR:(02/24)
-(Blocks\Combustion_Chamber)
-  - Name [✓]
-  - Description [✓]
-  - Details [✓]
-  
-- Added to bundle_US:(02/24)
-  - Name [✓]
-  - Description [✓]
-  - Details [✓]
+---
 
-- Added to bundle_ES:(07/24)
-  - Name [✓]
-  - Description [✓]
-  - Details [✓]
+## Bundles
 
-**Changes Made in CONTENTS :**
-- Applied to Blocks:(02/24)
-( Blocks\combustion_chamber): (02/24)
-  - Name [✓]
-  - Description [✓]
-  - Requirements [✓]
-  Added (tungsten/50, oxide/10)
-  - Production [✓]
-  Energy generation (+180)
-  - Research [✓] (08/24)
-  Set to "graphite generator" 
+### PT-BR [02/24]
+- Nome (1/1) [✓]
+- Descrição (1/1) [✓]
+- Detalhes (1/1) [✓]
 
-**Changes Made in MOD.JSON and README.MD :**
-  - Description [✓] (02/24)
-  Added to Mod.json
-  Added to README.md 
-  - Link [✓] (02/24)
-  Added to Mod.json
-  Added to Readme.json
+### EN [02/24]
+- Name (1/1) [✓]
+- Description (1/1) [✓]
+- Details (1/1) [✓]
+
+### ES [07/24]
+- Nombre (1/1) [X]
+- Descripción (1/1) [X]
+- Detalles (1/1) [X]
+
+---
+
+## Contents [02/24]
+
+### blocks/combustion-chamber
+- Name [✓]
+- Description [✓]
+
+- Requirements [✓]
+  - Added:
+    - tungsten/50
+    - oxide/10
+
+- Production [✓]
+  - Power Generation: +180
+
+- Research [✓] [08/24]
+  - Research Node:
+    - graphite generator
+
+---
+
+## Sprites
+- No sprite changes registered
+
+---
+
+## Integration [02/24]
+- Compatibility Test [✓]
+- Harmony Validation [✓]
+- Research Tree Validation [✓]
+
+---
+
+## Documentation [02/24]
+
+### mod.json
+- Credits Added [✓]
+- Description Updated [✓]
+- Mod Link Added [✓]
+
+### README.md
+- Credits Added [✓]
+- Mod Link Added [✓]
+
+### CHANGELOG
+- Entry Added [✓]
+
+---
