@@ -33,35 +33,38 @@ Painel operacional utilizado para:
 
 ## Documentação (05/26)
 - [✓] Criar Log Pessoal em Dados-Catalogados
-- [-] Adicionar bundle_ES.properties aos Mods
-- [✓] Adicionar bundle_ES de Erekir Junction
-- [✓] Adicionar bundle_ES de Erekir Utilities
-- [✓] Adicionar bundle_ES Kizrak Radar
-- [ ] Criar Log de Erekir Logic
-- [ ] Criar Log de Erekir Reworked№2
+- [-] Adicionar bundle_ES.properties aos Mods(3/6)
+[✓] Erekir Junction
+[✓] Erekir Utilities
+[✓] Kizrak Radar
+- [[✓] Criar Log de Erekir Logic
+- [-] Criar Log de Erekir Reworked
 - [ ] Criar Log de Planetary Additions
 - [✓] Atualizar Log de Erekir Junction
 - [✓] Atualizar Log de Erekir Utilities
 - [✓] Atualizar Log de Kizrak Radar
-- [✓] Atualizar Modelo de Logs 
+- [✓] Atualizar Modelo de Logs
 - [✓] Atualizar Fluxograma de integração
+- [-] Ajustes Pequenos em ErekirMODS V.1
 
 ## Estrutura
-- [ ] Converter `.json` → `.hjson`
+- [-] Converter `.json` → `.hjson`
 - [ ] Atualizar ícone do mod
 - [ ] Atualizar holograma do mod.json
-- [ ] Adicionar linguagem espanhola
 - [ ] Alterar coloração de Radar para amarelo Vanillas
 - [ ] Alterar coloração da seta em verde para uma cor mais clara e elegante visualmente do duto de pontes
+- [-] Configurar Tiers(1...5) para fins de categorização de tecnologias
 
 ## GitHub
-- [ ] Adicionar imagem ao readme.md
-- [ ] Adicionar quebra de linhas em readme.md
-- [ ] Atualizar README.md
+- [ ] Adicionar imagem ao readme.md de ErekirMods
+Necessário por meio deste readme.md iniciar testes
+- [ ] Adicionar quebra de linhas em readme.md de ErekirMods
+Necessário por meio deste readme.md iniciar testes
+- [ ] Adicionar Pasta com Modelos Salvos
+- [ ] Atualizar README.md de Dados Catalogados
 - [✓] Solicitar PR de correção de Ray Gamma Bore
 - [ ] Solicitar PR Bundles de Erekir Reworked
 - [ ] Solicitar PR Bundles de Erekir Logic
-## Identidade
+- [-] Remover Metas
 - [✓] Atualizar assinatura "Silas Kolt" → "Razec Astrion"
 - [✓] Atualizar Foto de perfil
-- [ ] Configurar Tiers(1...5) para fins de categorização de tecnologias
