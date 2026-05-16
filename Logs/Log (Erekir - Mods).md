@@ -50,21 +50,21 @@ Painel operacional utilizado para:
 ## Estrutura
 - [-] Converter `.json` → `.hjson`
 - [ ] Atualizar ícone do mod
-- [ ] Atualizar holograma do mod.json
+- [x] Atualizar holograma do mod.json
 - [ ] Alterar coloração de Radar para amarelo Vanillas
 - [ ] Alterar coloração da seta em verde para uma cor mais clara e elegante visualmente do duto de pontes
 - [-] Configurar Tiers(1...5) para fins de categorização de tecnologias
 
 ## GitHub
-- [ ] Adicionar imagem ao readme.md de ErekirMods
+- [-] Adicionar imagem ao readme.md de ErekirMods
+Necessário por meio de branch iniciar testes
+- [-] Adicionar quebra de linhas em readme.md de ErekirMods
 Necessário por meio deste readme.md iniciar testes
-- [ ] Adicionar quebra de linhas em readme.md de ErekirMods
-Necessário por meio deste readme.md iniciar testes
-- [ ] Adicionar Pasta com Modelos Salvos
+- [-] Adicionar Pasta com Modelos Salvos
 - [ ] Atualizar README.md de Dados Catalogados
 - [✓] Solicitar PR de correção de Ray Gamma Bore
 - [ ] Solicitar PR Bundles de Erekir Reworked
-- [ ] Solicitar PR Bundles de Erekir Logic
-- [-] Remover Metas
+- [✓] Solicitar PR Bundles de Erekir Logic
+- [✓] Remover Metas
 - [✓] Atualizar assinatura "Silas Kolt" → "Razec Astrion"
 - [✓] Atualizar Foto de perfil
