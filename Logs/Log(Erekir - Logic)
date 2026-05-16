@@ -1,1 +1,135 @@
-Uploading. . .
+### Akinom - Erekir Logic
+
+- [Erekir Logic](https://github.com/darealmonika/erekir-logic) por Akinom
+- Discord: @???
+
+---
+
+## Bundles [V.2]
+
+### PT-BR
+- Nome [✓]
+- Descrição [✓]
+- Detalhes [✓]
+
+### EN
+- Name [x]
+- Description [x]
+- Details [x]
+
+### ES
+- Nombre [X]
+- Descripción [X]
+- Detalles [X]
+
+---
+
+## Contents [V.2]
+
+### logic/processor-micro-reinforced
+- Name [x]
+- Description [x]
+- Details [x]
+- Requirements [x]
+- Research [x]
+- Size [x]
+
+### logic/processor-logic-reinforced
+- Name [x]
+- Description [x]
+- Details [x]
+- Requirements [x]
+- Research [x]
+- Size [x]
+
+### logic/processor-hyper-reinforced
+- Name [x]
+- Description [x]
+- Details [x]
+- Requirements [x]
+- Research [x]
+- Size [x]
+
+### logic/message-reinforced
+- Name [x]
+- Description [x]
+- Details [x]
+- Requirements [x]
+- Research [x]
+- Size [x]
+
+### logic/switch-reinforced
+- Name [x]
+- Description [x]
+- Details [x]
+- Requirements [x]
+- Research [x]
+- Size [x]
+
+### logic/display-logic-reinforced
+- Name [x]
+- Description [x]
+- Details [x]
+- Requirements [x]
+- Research [x]
+- Size [x]
+
+### logic/display-large-reinforced
+- Name [x]
+- Description [x]
+- Details [x]
+- Requirements [x]
+- Research [x]
+- Size [x]
+
+### logic/cell-memory-reinforced
+- Name [x]
+- Description [x]
+- Details [x]
+- Requirements [x]
+- Research [x]
+- Size [x]
+
+### logic/bank-memory-reinforced
+- Name [x]
+- Description [x]
+- Details [x]
+- Requirements [x]
+- Research [x]
+- Size [x]
+
+---
+
+## Sprites [V.2]
+
+### logic/*
+- Resolution [x]
+- Palette [x]
+- Pixel Consistency [x]
+- Palette Recoloring:
+  - Green berylium tone [x]
+
+---
+
+## Integration [V.2]
+- Compatibility Test [x]
+- Harmony Validation [x]
+- Research Tree Validation [x]
+
+---
+
+## Documentation [V.2]
+
+### mod.json ErekirMODS
+- Credits Added [x]
+- Description Updated [x]
+- Mod Link Added [x]
+
+### README.md ErekirMODS
+- Credits Added [x]
+- Mod Link Added [x]
+
+### CHANGELOG (05/26)
+- Entry Added [✓]
+
+---
