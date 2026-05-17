@@ -37,7 +37,7 @@ Painel operacional utilizado para:
 [✓] Erekir Junction
 [✓] Erekir Utilities
 [✓] Kizrak Radar
-- [[✓] Criar Log de Erekir Logic
+- [✓] Criar Log de Erekir Logic
 - [-] Criar Log de Erekir Reworked
 - [ ] Criar Log de Planetary Additions
 - [✓] Atualizar Log de Erekir Junction
@@ -49,7 +49,7 @@ Painel operacional utilizado para:
 
 ## Estrutura
 - [-] Converter `.json` → `.hjson`
-- [ ] Atualizar ícone do mod
+- [-] Atualizar ícone do mod
 - [x] Atualizar holograma do mod.json
 - [ ] Alterar coloração de Radar para amarelo Vanillas
 - [ ] Alterar coloração da seta em verde para uma cor mais clara e elegante visualmente do duto de pontes
