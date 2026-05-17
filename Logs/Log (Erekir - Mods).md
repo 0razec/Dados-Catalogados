@@ -50,7 +50,7 @@ Painel operacional utilizado para:
 ## Estrutura
 - [-] Converter `.json` → `.hjson`
 - [-] Atualizar ícone do mod
-- [x] Atualizar holograma do mod.json
+- [/] Atualizar holograma do mod.json
 - [ ] Alterar coloração de Radar para amarelo Vanillas
 - [ ] Alterar coloração da seta em verde para uma cor mais clara e elegante visualmente do duto de pontes
 - [-] Configurar Tiers(1...5) para fins de categorização de tecnologias
@@ -60,7 +60,10 @@ Painel operacional utilizado para:
 Necessário por meio de branch iniciar testes
 - [-] Adicionar quebra de linhas em readme.md de ErekirMods
 Necessário por meio deste readme.md iniciar testes
-- [-] Adicionar Pasta com Modelos Salvos
+- [✓] Adicionar Pasta com Modelos Salvos
+[✓] Log Template
+[✓] Bundle Template
+[✓] Release Template
 - [ ] Atualizar README.md de Dados Catalogados
 - [✓] Solicitar PR de correção de Ray Gamma Bore
 - [ ] Solicitar PR Bundles de Erekir Reworked
